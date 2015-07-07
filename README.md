@@ -19,3 +19,4 @@ First way is to clone the prject in your machine or follow the below steps:
 
 5.Run Test.java and see the results.
 
+Note: If you see red lines under some keywords(errors) in the java file in eclipse, please import the respective libraries using Ctrl+Shift+O 
