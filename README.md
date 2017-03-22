@@ -3,7 +3,7 @@ Tools required to run this test:
 
 Eclipse IDE
 
-Selenium Server standalone jar("http://www.seleniumhq.org/download/"  Download version 2.46.0)
+Selenium Server standalone jar("http://www.seleniumhq.org/download/"  Download latest version)
 
 Steps to run this test:
 
